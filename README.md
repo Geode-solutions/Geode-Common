@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://opengeode-slack-invite.herokuapp.com">
+  <a href="https://geode-solutions.com/#slack">
     <img src="https://opengeode-slack-invite.herokuapp.com/badge.svg" alt="Slack invite">
   </a>
   <a href="https://doi.org/10.5281/zenodo.4427835">
